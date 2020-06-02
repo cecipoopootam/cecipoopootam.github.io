@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "/cecipoopootam.github.io/"
-AuthUserFile cecipoopootam:{SHA}CaqokiXuJeSsNRgpVJyHHvAwXi4=/.htpasswd
-require valid-user
