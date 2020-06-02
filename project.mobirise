@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cecipoopootam",
-    "currentPage": "index.html",
+    "currentPage": "myphoto.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -658,6 +658,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-1781-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1781-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Yama Girl",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-1791-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1791-2000x3000-800x1200.jpg",
                 "alt": "",
@@ -678,19 +691,6 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Lingerie",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-9224-2000x2667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9224-2000x2667-800x1067.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Lingerie",
@@ -788,8 +788,47 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-e9254-1-2000x2667.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-e9254-1-2000x2667-800x1219.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-e9238-1952x2603.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-e9238-1952x2603-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Lingerie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9221-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9221-2000x2666-800x1066.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Lingerie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9222-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9222-2000x2666-800x1066.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Lingerie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9224-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9224-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
